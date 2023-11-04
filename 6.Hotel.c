@@ -3,7 +3,7 @@
 #define USD 1
 #define EUR 2
 #define VND 3
-
+//kieudulieu
 typedef union{
     double usd;
     double eur;
